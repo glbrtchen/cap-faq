@@ -41,7 +41,7 @@ available, partition-tolerant web services” [2].
 [1] http://www.cs.berkeley.edu/~brewer/cs262b-2004/PODC-keynote.pdf
 [2] http://lpd.epfl.ch/sgilbert/pubs/BrewersConjecture-SigAct.pdf
 
-## 2. What does the CAP Theorem actually say?
+## 2. CAP理论实际想表达什么?
 
 The CAP Theorem (henceforth 'CAP') says that it is impossible to build
 an implementation of read-write storage in an asynchronous network that
